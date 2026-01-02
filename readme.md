@@ -5,7 +5,7 @@ Dieses Projekt ist eine **2D-Schüttgutsimulation** in Python, die zufällige Pu
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Repository klonen:
 
