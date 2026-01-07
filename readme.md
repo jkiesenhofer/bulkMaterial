@@ -5,6 +5,6 @@
 ## Installation
 
 ```bash
-git clone https://github.com/jkiesenhofer/bulkmaterial.git
+git clone https://github.com/jkiesenhofer/bulkMaterial.git
 
 pip install openpiv
